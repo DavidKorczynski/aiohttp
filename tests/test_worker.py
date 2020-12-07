@@ -1,4 +1,4 @@
-# type: ignore
+# type: ignore ##
 # Tests for aiohttp/worker.py
 import asyncio
 import os
